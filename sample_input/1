@@ -1,0 +1,17 @@
+create_parking_lot 8
+park UP-16-BP-6562 White
+park UP-16-BP-6563 White
+park UP-16-BP-6564 Black
+park UP-16-BP-6565 Red
+park UP-16-BP-6566 Blue
+park UP-16-BP-6567 Black
+leave 4
+status
+park KA-01-P-333 White
+park DL-12-AA-9999 White
+park DL-08-S-2774 White
+park UP-16-BP-6562 Grey
+registration_numbers_for_cars_with_colour White
+slot_numbers_for_cars_with_colour White
+slot_number_for_registration_number UP-16-BP-6565
+slot_number_for_registration_number UP-16-BP-6563
